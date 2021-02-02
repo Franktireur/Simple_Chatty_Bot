@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2170#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 15. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\n4\n2\n6\nCorrect output:\nYES\n\nYour code\
+    \ output:\nHello! My name is Aid.\nI was created in 2018.\nPlease, remind me your\
+    \ name.\nWhat a great name you have, 4!\nLet me guess your age.\nEnter remainders\
+    \ of dividing your age by 3, 5 and 7.\n\nError:\nException in thread \"main\"\
+    \ java.util.NoSuchElementException\n\tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\
+    \tat java.base/java.util.Scanner.next(Scanner.java:1594)\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2258)\n\
+    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\tat Main.guessAge(Main.java:30)\n\
+    \tat Main.main(Main.java:8)\n"
+  time: Tue, 02 Feb 2021 21:57:56 UTC
+record: -1

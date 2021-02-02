@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Simple_Chatty_Bot.Problems-Chocolate.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello_/Simple_Chatty_Bot.Problems-Hello_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" />
+    </modules>
+  </component>
+</project>
